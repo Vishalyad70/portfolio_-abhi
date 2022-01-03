@@ -16,7 +16,7 @@ export  function Banner() {
                   <div className="first_box">
                   <div className="banner_title">
                    <h5 class="title_one "  data-aos="fade-right">Work <span></span></h5>
-                   <p  data-aos="fade-left">Here is my showcase </p>
+                   <p  data-aos="fade-left">This is a new change </p>
                    </div>
                   </div>
                    </Col>
